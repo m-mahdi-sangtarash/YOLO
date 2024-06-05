@@ -1,3 +1,3 @@
 # YOLO v8
 
-yolo v8 training
+Yolo v8 training
